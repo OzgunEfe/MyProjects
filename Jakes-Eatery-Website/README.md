@@ -8,5 +8,5 @@ https://ozgunefe.github.io/MyProjects/Jakes-Eatery-Website/
 
 ## Screen Capture
 
-![Screenshot](./Screenshot/Jakes%20Eatery.png)
+![Screenshot](./Screenshot/Screenshot.png)
 
